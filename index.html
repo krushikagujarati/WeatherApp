@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Weather App</h1>
+        <!-- ... -->
+        <select id="cityDropdown" onchange="fetchWeatherData()">
+            <!-- Options will be populated using JavaScript -->
+        </select>
+        <div id="weatherDetails" class="details">
+            <h2 id="weatherCity"></h2>
+            <p>Temperature: <span id="temp"></span>°C</p>
+            <p>Weather: <span id="description"></span></p>
+        </div>
+
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
