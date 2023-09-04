@@ -61,6 +61,10 @@ The development and design guidance for this application was provided by cursor 
 
 ![test case](https://github.com/krushikagujarati/WeatherApp/assets/48424819/d8a8d515-4fd4-487d-a467-ca5c4e6f66da)
 
+Screen cast link:
+
+https://drive.google.com/drive/folders/1L8_zoowT6K8dslh4FVB-IW0cegh9fMnt?usp=drive_link
+
 
 # Contributing
 Feel free to fork this repository, make changes, and submit pull requests. Any contributions, no matter how small, are greatly appreciated!
