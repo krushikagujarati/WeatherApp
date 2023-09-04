@@ -66,6 +66,7 @@ Screen cast link :  https://drive.google.com/drive/folders/1L8_zoowT6K8dslh4FVB-
 # Data Analysis with chatGPT 4
 
 Chat GPT Export chat : https://drive.google.com/file/d/17hSzH6xHVnIZQ4d9_5fCsn7Xc0cq2jgL/view?usp=drive_link
+
 Medium report link : https://medium.com/@krushika.gujarati/how-chatgpt-approaches-data-analysis-66c61a92443b
 # Contributing
 Feel free to fork this repository, make changes, and submit pull requests. Any contributions, no matter how small, are greatly appreciated!
