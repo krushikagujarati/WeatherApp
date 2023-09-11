@@ -10,6 +10,7 @@ Dynamic background images based on the weather conditions.
 
 # Getting Started
 > Prerequisites
+
 Node.js installed.
 
 npm (comes bundled with Node.js) for package management.
